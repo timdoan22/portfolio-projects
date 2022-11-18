@@ -575,14 +575,22 @@ section.why-us {
 }
 
 @media screen and (max-width: 430px) {
+    #customer-tag {
+      font-size: 18px;
+    }
     .section-heading h2 {
         margin-top: 80px;
     }
     #tabs ul li a {
-        font-size: 10px;
+      font-size: 10px;
     }
-    #tabs ul {
-      margin: 0 10%;
+    /* #about-ul {
+      display: flex;
+    } */
+    .about-tabs {
+      width: 33.33%;
+      margin: auto;
+      text-align: center;
     }
     #tabs h4 {
         margin-top: 10px;
@@ -620,15 +628,6 @@ section.why-us {
 @media screen and (max-width: 400px) {
     .section-heading h2 {
         margin-top: 80px;
-    }
-    #tabs ul li a {
-        font-size: 11px;
-    }
-    #tabs h4 {
-        margin-top: 10px;
-    }
-    #tabs p {
-        font-size: 13px;
     }
     .about-text {
         width: 80%;
