@@ -4,7 +4,7 @@ RenoDemo
 
 ## Description
 
-![Project](https://github.com/timdoan22/portfolio-projects/blob/renodemo/assets/images/renodemo.gif)
+![Project](https://media1.tenor.com/images/428f476f76b513dfaf083f0ae7d31d97/tenor.gif?itemid=27137342)
 
 A mock design for a construction themed business.
 
