@@ -12,4 +12,10 @@ A mock design for a construction themed business.
 
 ## Other Projects
 
+[Better Bookmarks](https://github.com/timdoan22/better-bookmarks)  
+
+[Bill Tracker](https://github.com/timdoan22/bill-tracker)    
+
+[Landing Page](https://xyzlanding.netlify.app/)
+
 
